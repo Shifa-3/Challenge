@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(238, 218, 222);
+}
+.Firstheading{
+    color: rgb(224, 12, 129);
+}
+.heading{
+    color: rgb(224, 12, 129);
+    margin-top: 30px;
+}
+
+.red{
+    color: rgb(229, 7, 162);
+}
+.italic{
+    background-color: rgb(255, 205, 253);
+}
+.divheading{
+    color: rgb(222, 18, 106) ;
+    font-style: italic;
+     /* background-color: aqua; */
+} 
+.audio{
+    margin-right: 80px;
+    padding-top: 20px;
+}
+.video{
+    margin-right: 80px;
+    border-radius: 20px 20px;
+}
+
+
